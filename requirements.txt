@@ -1,0 +1,5 @@
+selfies
+rdkit
+PYyaml
+pytorch
+pandas
